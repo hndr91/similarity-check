@@ -8,8 +8,8 @@ Super simple python script to check similarity index using cosine similarity
 ## How to Use It
 `> python similarityChecker.py [-h] -P PATH [-T TOP] -I INDEX`
 
--P : Path to corpus directory
--T : Number of top n identical documents
+-P : Path to corpus directory\
+-T : Number of top n identical documents\
 -I : The index of to be checked document
 
 ## TODO
